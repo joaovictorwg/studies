@@ -1,1 +1,2 @@
-Repositório para as matérias do curso de Ciência da Computação UFT.
+Branch com conteúdo da disciplina de Processamento de Imagens
+
