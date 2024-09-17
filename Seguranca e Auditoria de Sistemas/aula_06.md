@@ -1,5 +1,3 @@
-Aqui está o texto revisado, organizado e corrigido em formato **Markdown (md)**:
-
 # Elevações de Privilégios em Sistemas Operacionais
 
 Uma vulnerabilidade é um defeito ou problema presente na especificação, implementação, configuração ou operação de um software, hardware ou sistema que possa ser explorado para violar as propriedades de segurança do mesmo.
@@ -88,4 +86,3 @@ A elevação de privilégios pode ser obtida através de:
 
 ---
 
-Com essa lista de comandos e ferramentas, você consegue coletar informações detalhadas sobre o sistema e identificar possíveis pontos de escalonamento de privilégios.
